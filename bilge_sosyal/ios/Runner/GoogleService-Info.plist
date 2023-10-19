@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>340677219244-vl7sa7qf1p0n8mik9g8ao026mrf6c42e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.340677219244-vl7sa7qf1p0n8mik9g8ao026mrf6c42e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGnJkJa679vc90cVFyK6fw57zwXAX0Fgk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>340677219244</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.bilgeSosyal</string>
+	<key>PROJECT_ID</key>
+	<string>social-media-app2-4c112</string>
+	<key>STORAGE_BUCKET</key>
+	<string>social-media-app2-4c112.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:340677219244:ios:d858569ea7170b5c89e009</string>
+</dict>
+</plist>

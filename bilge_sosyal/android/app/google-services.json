@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "326765590868",
+    "project_id": "flutter-bilge-app",
+    "storage_bucket": "flutter-bilge-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326765590868:android:d60389195ab86709e430c1",
+        "android_client_info": {
+          "package_name": "com.example.bilge_sosyal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326765590868-7388p6jk9gqtj0g8jsbtodmo6m03mfo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWevyV7uclpRNLuWSwyPZKQ_l8_8uFim0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326765590868-7388p6jk9gqtj0g8jsbtodmo6m03mfo8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326765590868-7oq51h5g9299i2ng2u1enfej2fhvcniu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bilgeSosyal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
